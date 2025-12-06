@@ -150,7 +150,7 @@ This project is licensed under the **MIT License**.
 
 ## **Author**
 
-**Kevin Chaudhari**  
+**Kevinkumar Tusharbhai Chaudhari**  
 Stony Brook University  
 CSE-518 Human–Computer Interaction  
 
